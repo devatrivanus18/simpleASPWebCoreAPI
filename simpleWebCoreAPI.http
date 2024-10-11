@@ -1,6 +1,0 @@
-@simpleWebCoreAPI_HostAddress = http://localhost:5101
-
-GET {{simpleWebCoreAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
